@@ -1,4 +1,4 @@
-# Python Web Scraper — Portfolio Demo
+# Python Web Scraper — Demo
 
 A clean, reusable web scraper that extracts data from public websites and outputs it as CSV.
 
